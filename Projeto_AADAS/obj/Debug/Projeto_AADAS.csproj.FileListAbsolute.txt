@@ -1,0 +1,47 @@
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\bin\Debug\Projeto_AADAS.exe.config
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\bin\Debug\Projeto_AADAS.exe
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\bin\Debug\Projeto_AADAS.pdb
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.csprojAssemblyReference.cache
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.frmFuncionários.resources
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.frmLogin.resources
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.Properties.Resources.resources
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.csproj.GenerateResource.cache
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.csproj.CoreCompileInputs.cache
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.exe
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.pdb
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.frmAtendido1.resources
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.frmAtendido2.resources
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.frmAtendido3.resources
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.frmAtendido4.resources
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.frmAtendido5.resources
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.frmMenuPrincipal.resources
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.frmPesquisa.resources
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\bin\Debug\Projeto_AADAS.exe.config
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\bin\Debug\Projeto_AADAS.exe
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\bin\Debug\Projeto_AADAS.pdb
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.frmLogin.resources
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.frmMenuPrincipal.resources
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.frmPesquisa.resources
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.Properties.Resources.resources
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.csproj.GenerateResource.cache
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.csproj.CoreCompileInputs.cache
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.exe
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.pdb
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.frmBackup.resources
+C:\Users\Perfil 2\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.frmAbout.resources
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.csproj.AssemblyReference.cache
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.frmAbout.resources
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.frmBackup.resources
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\bin\Debug\Google.Protobuf.dll
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\bin\Debug\Zstandard.Net.dll
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\bin\Debug\System.Memory.dll
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\bin\Debug\System.Buffers.dll
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\bin\Debug\MySql.Data.xml
+C:\Users\Adriano\source\repos\Projeto_AADAS\Projeto_AADAS\obj\Debug\Projeto_AADAS.frmFuncionarios.resources
